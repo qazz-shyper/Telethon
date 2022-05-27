@@ -103,11 +103,9 @@ Dialogs
 
     iter_dialogs
     get_dialogs
-    edit_folder
     iter_drafts
     get_drafts
     delete_dialog
-    conversation
 
 Users
 -----
@@ -120,9 +118,7 @@ Users
     get_me
     is_bot
     is_user_authorized
-    get_entity
-    get_input_entity
-    get_peer_id
+    get_profile
 
 Chats
 -----
